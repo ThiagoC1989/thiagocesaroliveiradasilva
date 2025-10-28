@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Analista de Suporte Técnico<br>Estudante do curso: Técnico em Informática Para internet no SENAC - SP🧑🏻‍🎓<br>Entusiasta de Arduino, Raspberry PI e Astronomia 🔭
 
 
